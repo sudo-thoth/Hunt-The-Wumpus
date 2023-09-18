@@ -1,0 +1,4 @@
+﻿  Hunt The Wumpus.cpp
+c:\users\id student\source\repos\hunt the wumpus\hunt the wumpus\hunt the wumpus.cpp(82): warning C4101: 'WumpusFound': unreferenced local variable
+c:\users\id student\source\repos\hunt the wumpus\hunt the wumpus\hunt the wumpus.cpp(128): warning C4101: 'select': unreferenced local variable
+  Hunt The Wumpus.vcxproj -> C:\Users\iD Student\source\repos\Hunt The Wumpus\Debug\Hunt The Wumpus.exe
